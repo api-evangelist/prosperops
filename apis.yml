@@ -7,9 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - FinOps
-  - Cloud Cost Optimization
   - AWS
+  - Cloud Cost Optimization
+  - FinOps
 url: >-
   https://raw.githubusercontent.com/api-evangelist/prosperops/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -24,8 +24,8 @@ apis:
       discount coverage while minimizing commitment risk.
     humanURL: https://www.prosperops.com/
     tags:
-      - FinOps
       - Cloud Cost Optimization
+      - FinOps
     properties:
       - type: Documentation
         url: https://www.prosperops.com/resources/
