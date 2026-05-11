@@ -38,6 +38,103 @@ common:
     url: https://www.prosperops.com/resources/
   - type: Blog
     url: https://www.prosperops.com/blog/
+  - type: Integrations
+    url: https://www.prosperops.com/partners/
+integrations:
+  - name: ProsperOps_Logo
+  - name: Frame-5169
+  - name: Frame-5170
+  - name: azure-logo
+  - name: Scheduler-Icon-1
+  - name: prop-icon-Finance-01
+  - name: prop-icon-Engineer-01
+  - name: prop-icon-FinOps-01
+  - name: Private Equity
+  - name: ebooks
+  - name: calendar
+  - name: podcast
+  - name: Webinars
+  - name: case-study
+  - name: help-center
+  - name: finops_automatization
+  - name: prosperops-about
+  - name: news-icon
+  - name: gcp-icon
+  - name: AWS-Compute-Graphs_V6_Hero-presentation-preview
+  - name: icon_code_technology
+  - name: icon_handshake
+  - name: icon_cog_custom_optimization_settings
+  - name: agero
+  - name: aeromexico
+  - name: logo_alltrails
+  - name: logo_anaconda
+  - name: applause
+  - name: athennian
+  - name: ataccama
+  - name: logo_ballotpedia
+  - name: bazaarvoice
+  - name: logo_betterment
+  - name: bsc analytics
+  - name: logo_boomi
+  - name: bynder
+  - name: logo_canva
+  - name: logo-capita
+  - name: logo_clevertap
+  - name: cloudelligent
+  - name: cloudnexa core
+  - name: logo_coinbase
+  - name: logo_collibra
+  - name: color health
+  - name: logo_conductorone
+  - name: consensus
+  - name: coupa
+  - name: cyberfortress
+  - name: devk
+  - name: logo_drbrant
+  - name: logo_duolingo
+  - name: envirosuite
+  - name: everyangle
+  - name: logo_finchai
+  - name: forma ai
+  - name: gunpowder tech
+  - name: logo_hiya
+  - name: humansite
+  - name: intelligent medical objects
+  - name: logo_kratos
+  - name: legalzoom
+  - name: logo_mailgun
+  - name: logo_matillion
+  - name: logo_moveworks
+  - name: logo-nubank
+  - name: logo_oblivion
+  - name: priceline
+  - name: project44
+  - name: qad
+  - name: rockar
+  - name: rush street interactive
+  - name: logo_seatgeek
+  - name: logo_sportradar
+  - name: logo_syntax
+  - name: talkdesk
+  - name: logo_tdsynnex
+  - name: logo_tealium
+  - name: logo_tipalti
+  - name: uizard
+  - name: vespa
+  - name: vestmark
+  - name: zebra technologies
+  - name: zenni
+  - name: Partners_WhyPartner_02_update
+  - name: ICON_warning-cloud-window
+  - name: ICON_people-2
+  - name: 3IconCards-3_Pricing
+  - name: ICON_Contact-Support
+  - name: Partners_TextMedia
+  - name: ProsperOps_Logo_White-web
+  - name: aws
+  - name: google cloud partner
+  - name: finops
+  - name: soc
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
