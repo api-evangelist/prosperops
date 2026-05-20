@@ -32,6 +32,8 @@ apis:
       - type: GettingStarted
         url: https://www.prosperops.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/prosperops
   - type: Website
     url: https://www.prosperops.com/
   - type: Documentation
