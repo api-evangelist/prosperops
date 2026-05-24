@@ -42,6 +42,8 @@ common:
     url: https://www.prosperops.com/blog/
   - type: Integrations
     url: https://www.prosperops.com/partners/
+  - type: LLMsTxt
+    url: https://prosperops.com/llms.txt
 integrations:
   - name: ProsperOps_Logo
   - name: Frame-5169
