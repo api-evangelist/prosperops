@@ -2,12 +2,20 @@
   "repo": "prosperops",
   "feeds": [
     {
-      "source": "https://www.prosperops.com/blog/",
+      "source": "https://www.prosperops.com/feed/",
       "feed_url": "https://www.prosperops.com/feed/",
-      "title": "ProsperOps",
-      "saved": 0
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.prosperops.com/resources/",
+      "feed_url": "https://www.prosperops.com/resources/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
-  "fetched": "2026-05-17T20:20:35Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
