@@ -9,6 +9,13 @@
       "method": "none"
     },
     {
+      "source": "https://www.prosperops.com/resources/feed/",
+      "feed_url": "https://www.prosperops.com/resources/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.prosperops.com/resources/",
       "feed_url": "https://www.prosperops.com/resources/feed/",
       "title": "",
@@ -16,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 5,
+  "fetched": "2026-06-27T12:03:07Z"
 }

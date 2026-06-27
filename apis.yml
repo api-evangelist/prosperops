@@ -42,7 +42,7 @@ common:
     url: https://www.prosperops.com/blog/
   - type: Integrations
     url: https://www.prosperops.com/partners/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://prosperops.com/llms.txt
 integrations:
   - name: ProsperOps_Logo
