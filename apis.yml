@@ -32,6 +32,10 @@ apis:
       - type: GettingStarted
         url: https://www.prosperops.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/prosperops-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/prosperops-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/prosperops
   - type: Website
